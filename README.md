@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 Projeto ToDo List – Next.js + TypeScript + Tailwind CSS
 
-## Getting Started
+📌 Descrição
 
-First, run the development server:
+Este é um projeto prático de ToDo List desenvolvido com Next.js, TypeScript e Tailwind CSS.
+A aplicação tem como objetivo gerenciar tarefas de forma simples e eficiente, aplicando conceitos modernos de desenvolvimento web e boas práticas de versionamento e deploy.
 
-```bash
+✨ Funcionalidades
+
+✅ Adicionar novas tarefas.
+
+✅ Marcar tarefas como concluídas.
+
+✅ Remover tarefas dinamicamente.
+
+✅ Contabilizar tarefas pendentes e totais.
+
+✅ Layout responsivo e estilizado com Tailwind CSS.
+
+✅ Deploy contínuo e acessível via Vercel.
+
+🛠️ Tecnologias Utilizadas
+
+Next.js → Framework React para construção de aplicações modernas.
+
+TypeScript → Tipagem estática para maior segurança e manutenção do código.
+
+Tailwind CSS → Estilização rápida e responsiva.
+
+React Hooks → Manipulação eficiente do estado da aplicação.
+
+Git/GitHub → Versionamento profissional e colaboração.
+
+Vercel → Deploy contínuo e integração direta com repositório.
+
+🚀 Como Executar Localmente
+1️⃣ Clone o repositório
+git clone https://github.com/f2codesystems/todo-list-next.git
+cd todo-list-next
+
+2️⃣ Instale as dependências
+npm install
+# ou
+yarn install
+
+3️⃣ Execute o servidor de desenvolvimento
 npm run dev
-# or
+# ou
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4️⃣ Acesse no navegador
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+👉 http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🔗 Links do Projeto
 
-## Learn More
+📂 GitHub: https://github.com/f2codesystems/todo-list-next
 
-To learn more about Next.js, take a look at the following resources:
+🌐 Deploy Online: https://todo-list-next-ktx37ri0p-felipes-projects-b70528f4.vercel.app/
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📖 Resumo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Este projeto demonstra minha capacidade de:
 
-## Deploy on Vercel
+Construir aplicações web completas.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Trabalhar com tecnologias modernas e boas práticas.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Publicar e manter projetos online, prontos para uso.
+
+🤝 Contato
+
+👨‍💻 Felipe Correa – Engenheiro de Software | Desenvolvedor Full Stack
+📬 LinkedIn: https://www.linkedin.com/in/felipecostacorrea/
